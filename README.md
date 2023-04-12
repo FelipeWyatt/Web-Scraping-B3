@@ -1,2 +1,2 @@
 # Web-Scraping-B3
-Projeto em python para obter dados de acionistas de todas as empresas listadas na Bolsa B3
+Python project to obtain shareholder data for all companies listed on the B3 Stock Exchange.
